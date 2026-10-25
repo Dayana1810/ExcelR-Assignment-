@@ -16,6 +16,9 @@ The Data Analytics Assignment focused on analyzing data and transforming raw inf
 
 **4. Tableau:** Tableau was used for data visualization and dashboard development. Different charts and graphs were created to identify patterns, compare performance, and communicate analytical findings clearly and effectively.
 
+### Tableau Publish Dashboard
+https://public.tableau.com/app/profile/dayana.achari/viz/Assignment_17772189780540/Dashboard1
+
 ## Project Workflow
 
 The assignment followed a systematic process. First, the dataset was collected and examined to understand its structure and contents. Next, data cleaning and preprocessing were performed to improve data quality and consistency. MySQL queries were then used to retrieve and analyze relevant information. Excel supported calculations and further analysis, while Power BI and Tableau were used to develop visual reports and interactive dashboards.
