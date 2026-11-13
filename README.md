@@ -25,4 +25,4 @@ The assignment followed a systematic process. First, the dataset was collected a
 
 ## Conclusion
 
-This assignment provided valuable practical experience in data analysis, database management, and business intelligence. Working with Excel, MySQL, Power BI, and Tableau improved my technical skills and helped me understand how to convert raw data into useful business insights. Overall, the assignment strengthened my analytical thinking, problem-solving, and data visualization skills, which are important for a career as a Data Analyst.
+This assignment provided valuable practical experience in data analysis, database management, and business intelligence. Working with Excel, MySQL, Power BI, and Tableau improved my technical skills and helped me understand how to convert raw data into useful business insights. Overall, the assignment strengthened my analytical thinking, problem-solving, and data visualization skills, which are important for a career as a Data Analyst. 
